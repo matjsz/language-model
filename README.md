@@ -1,2 +1,3 @@
-# language-model
-A language model based on a RNN that uses LSTM to embed the tokenization within hidden inputs.
+# RNN LSTM Language Model
+
+This is a language model trained in a RNN using LSTM for embedding, Adam for optimization and Cross-Entropy Loss for the loss function.
